@@ -1,7 +1,7 @@
 <template>
   <div id="home">
     <nav-bar class="home-nav">
-      <div slot="center">首页</div>
+      <div slot="center">首页111</div>
     </nav-bar>
 
   </div>
